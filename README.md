@@ -5,4 +5,6 @@ Para quem quiser dar um visú, é só colar este subdomínio da Netlify em que f
 https://serene-sopapillas-96af07.netlify.app/
 
 
-O GithubPages não suporta projetos com mais de 25 MB.
+O GithubPages não suporta projetos com mais de 25 MB, o que deixa o resultado do projeto um pouco incompleto.
+
+
